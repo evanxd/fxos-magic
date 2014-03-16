@@ -47,5 +47,18 @@ FxOS Magic is a good first Firefox OS App tutorial book for web developers. It s
 
 8. Firefox OS Features
   8.1 Web Activity
-  8.2 Summary
+  8.2 Notification
+  8.3 Alarm APIs
+  8.3 Summary
+
+9. Keyboard App
+  9.1 Keyboard APIs
+  9.2 First Keyboard App
+  9.3 Summary
+
+10. App Deployment
+  10.1 Hosted and Packaged App
+  10.2 Build Tool
+  10.3 Firefox Marketplace
+  10.4 Summary
 ```
