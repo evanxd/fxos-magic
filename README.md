@@ -1,11 +1,11 @@
 # FxOS Magic
-FxOS Magic is a good first Firefox OS App tutorial book for web developers. It suits people are web developer faimiliar with HTML5, CSS3, and JavaScript. We will introduce all important knowledge to develop amazing FxOS apps.
+FxOS Magic is a good first Firefox OS App handbook for Web developers. It suits people are Web developer faimiliar with HTML5, CSS3, and JavaScript. We will introduce all important knowledge for developing amazing FxOS apps.
 
 ## Book Contents
 ```
 1. About Firefox OS
-  1.1 Introduction
-  1.2 Why Firefox OS
+  1.1 What Is Firefox OS
+  1.2 Why Has Firefox OS
   1.3 Goal of Firefox OS
   1.4 Summary
 
