@@ -9,7 +9,7 @@ FxOS Magic is a good first Firefox OS App handbook for Web developers. It suits 
   1.3 Goal of Firefox OS
   1.4 Summary
 
-2. Setup Development Environment
+2. Setup Development Environment (cctuan)
   2.1 Run App on Fireofx OS Emulator
   2.2 Run App on Device
   2.3 Debugging with App Manager
