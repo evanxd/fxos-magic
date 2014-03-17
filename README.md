@@ -20,7 +20,7 @@ FxOS Magic is a good first Firefox OS App handbook for Web developers. It suits 
   3.2 First Firefox OS App
   3.3 Summary
 
-4. User Interface
+4. User Interface (EragonJ)
   4.1 Building Block
   4.2 Summary
 
