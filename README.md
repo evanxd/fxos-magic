@@ -30,7 +30,7 @@ FxOS Magic is a good first Firefox OS App handbook for Web developers. It suits 
   5.3 MozSettings
   5.4 Summary
 
-6. Multimedia
+6. Multimedia (dominickuo)
   6.1 Music APIs
   6.2 Video APIs
   6.3 Camera APIs
